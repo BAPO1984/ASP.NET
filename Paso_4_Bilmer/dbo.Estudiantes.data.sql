@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Estudiantes] ([identificacion], [nombres], [apellidos], [telefono], [correo], [usuario], [contraseña]) VALUES (123456, N'bspo                          ', N'perez                         ', N'222222    ', N'bpoa@bapo                                                                                           ', N'wwwww     ', N'xxxxx     ')

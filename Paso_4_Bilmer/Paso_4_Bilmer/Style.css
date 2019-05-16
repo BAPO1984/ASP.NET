@@ -1,0 +1,27 @@
+﻿#principal {
+    width:100%;
+    
+}
+#titulo {   
+    width: 100%;
+    height:150px;
+}
+#gafas{
+    margin-right: auto;
+    width: 25%;
+    position:relative;
+}
+#lbltitulo {
+    width: 74%;
+    margin-left:auto;   
+    position:relative;
+    bottom: 100px;   
+}
+.centrar {
+    width: 50%;
+    text-align: center;   
+    margin-left: auto;
+    
+}
+
+
